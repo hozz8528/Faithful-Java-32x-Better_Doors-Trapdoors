@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_1",
+  "textures": {
+	"particle": "block/warped_door_bottom",
+    "side": "minecraft:block/warped_door_extra",
+    "bottom": "minecraft:block/warped_door_bottom"
+  }
+}

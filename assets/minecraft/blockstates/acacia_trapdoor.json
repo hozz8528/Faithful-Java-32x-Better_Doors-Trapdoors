@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=east,half=bottom,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_3"
+    },
+    "facing=east,half=bottom,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_open_3"
+    },
+    "facing=east,half=top,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_top_3"
+    },
+    "facing=east,half=top,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_top_open_3"
+    },
+    "facing=north,half=bottom,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_bottom"
+    },
+    "facing=north,half=bottom,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_open_1"
+    },
+    "facing=north,half=top,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_top_1"
+    },
+    "facing=north,half=top,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_top_open_1"
+    },
+    "facing=south,half=bottom,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_2"
+    },
+    "facing=south,half=bottom,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_open_2"
+    },
+    "facing=south,half=top,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_top_2"
+    },
+    "facing=south,half=top,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_top_open_2"
+    },
+    "facing=west,half=bottom,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_4"
+    },
+    "facing=west,half=bottom,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_bottom_open_4"
+    },
+    "facing=west,half=top,open=false": {
+      "model": "minecraft:block/acacia_trapdoor_top_4"
+    },
+    "facing=west,half=top,open=true": {
+      "model": "minecraft:block/acacia_trapdoor_top_open_4"
+    }
+  }
+}

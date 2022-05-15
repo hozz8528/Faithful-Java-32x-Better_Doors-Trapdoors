@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/birch_trapdoor_top_1",
+	"textures": {
+		"particle": "block/birch_trapdoor_4",
+		"side": "block/birch_door_extra",
+		"top": "block/birch_trapdoor_4",
+		"bottom": "block/birch_trapdoor_4"
+	}
+}

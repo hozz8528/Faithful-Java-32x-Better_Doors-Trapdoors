@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/door_top_4",
+	"textures": {
+		"particle": "block/crimson_door_top",
+		"top": "block/crimson_door_top",
+		"side": "block/crimson_door_extra"
+	}
+}

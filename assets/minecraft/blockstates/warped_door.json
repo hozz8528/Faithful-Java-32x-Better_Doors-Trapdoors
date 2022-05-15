@@ -1,0 +1,112 @@
+{
+  "variants": {
+    "facing=east,half=upper,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_top_7"
+    },
+    "facing=east,half=upper,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_top_4"
+    },
+    "facing=east,half=upper,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_top_8"
+    },
+    "facing=east,half=upper,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_top_1"
+    },
+    "facing=north,half=upper,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_top_1"
+    },
+    "facing=north,half=upper,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_top_8"
+    },
+    "facing=north,half=upper,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_top_2"
+    },
+    "facing=north,half=upper,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_top_5"
+    },
+    "facing=south,half=upper,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_top_3"
+    },
+    "facing=south,half=upper,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_top_6"
+    },
+    "facing=south,half=upper,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_top_4"
+    },
+    "facing=south,half=upper,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_top_7"
+    },
+    "facing=west,half=upper,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_top_5"
+    },
+    "facing=west,half=upper,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_top_2"
+    },
+    "facing=west,half=upper,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_top_6"
+    },
+    "facing=west,half=upper,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_top_3"
+    },
+    "facing=east,half=lower,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_bottom_1"
+    },
+    "facing=east,half=lower,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 90
+    },
+    "facing=east,half=lower,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_bottom_2"
+    },
+    "facing=east,half=lower,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 270
+    },
+    "facing=north,half=lower,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 270
+    },
+    "facing=north,half=lower,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_bottom_2"
+    },
+    "facing=north,half=lower,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 270
+    },
+    "facing=north,half=lower,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 180
+    },
+    "facing=south,half=lower,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 90
+    },
+    "facing=south,half=lower,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 180
+    },
+    "facing=south,half=lower,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 90
+    },
+    "facing=south,half=lower,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_bottom_1"
+    },
+    "facing=west,half=lower,hinge=left,open=false": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 180
+    },
+    "facing=west,half=lower,hinge=left,open=true": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 270
+    },
+    "facing=west,half=lower,hinge=right,open=false": {
+      "model": "minecraft:block/warped_door_bottom_2",
+      "y": 180
+    },
+    "facing=west,half=lower,hinge=right,open=true": {
+      "model": "minecraft:block/warped_door_bottom_1",
+      "y": 90
+    }
+  }
+}

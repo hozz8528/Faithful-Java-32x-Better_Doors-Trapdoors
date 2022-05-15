@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/mangrove_trapdoor_bottom",
+	"textures": {
+		"particle": "block/mangrove_trapdoor_3",
+		"bottom": "block/mangrove_trapdoor_3",
+		"top": "block/mangrove_trapdoor_1",
+		"side": "block/mangrove_door_extra"
+	}
+}
